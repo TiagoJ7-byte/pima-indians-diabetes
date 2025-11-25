@@ -25,6 +25,6 @@ This project help me understand health care systems based on AI and gain ability
 
 2º Install dependencies: pip install -r requirements.txt;
 
-3º Run the notebook: jupyter notebook pima_indians-diabetes.ipynb;
+3º Run the notebook: jupyter notebook pima-indians-diabetes.ipynb;
 
 4º Explore results in the output cells and see the visualizations.
